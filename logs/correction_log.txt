@@ -1,2 +1,44 @@
-2025-07-11 21:49:20,954 - Row 3: Name standardized from 'Jane Doe ' to 'Jane Doe'
-2025-07-11 21:49:20,957 - Row 3: Country 'Inda' corrected to 'India' (score=89)
+2025-07-11 22:08:58,996 - Removed 2 duplicate rows.
+2025-07-11 22:08:58,996 - Row 3: Name standardized from 'Jane Doe ' to 'Jane Doe'
+2025-07-11 22:08:58,997 - Row 4: Name standardized from 'Chris ' to 'Chris'
+2025-07-11 22:08:58,997 - Row 4: Invalid phone '999999999' replaced with '0'
+2025-07-11 22:08:58,997 - Row 6: Name standardized from '   Michael White   ' to 'Michael White'
+2025-07-11 22:08:58,998 - Row 14: Name standardized from 'Elon Musk   ' to 'Elon Musk'
+2025-07-11 22:08:58,998 - Row 16: Name standardized from '        Marry Poppins' to 'Marry Poppins'
+2025-07-11 22:08:58,998 - Row 17: Invalid phone '0000000000' replaced with '0'
+2025-07-11 22:08:58,998 - Row 18: Invalid phone '987654321' replaced with '0'
+2025-07-11 22:08:58,999 - Row 26: Invalid phone '0000000000' replaced with '0'
+2025-07-11 22:08:59,000 - Row 28: Name standardized from 'Bilbo Baggins    ' to 'Bilbo Baggins'
+2025-07-11 22:08:59,001 - Row 31: Name standardized from 'Peter Parker ' to 'Peter Parker'
+2025-07-11 22:08:59,001 - Row 32: Name standardized from ' Bruce Wayne' to 'Bruce Wayne'
+2025-07-11 22:08:59,002 - Row 34: Name standardized from 'Diana Prince  ' to 'Diana Prince'
+2025-07-11 22:08:59,003 - Row 40: Name standardized from '  Bruce Banner' to 'Bruce Banner'
+2025-07-11 22:08:59,003 - Row 40: Invalid phone '0000000000' replaced with '0'
+2025-07-11 22:08:59,004 - Row 41: Name standardized from 'Scott Lang ' to 'Scott Lang'
+2025-07-11 22:08:59,004 - Row 44: Name standardized from 'Nick Fury ' to 'Nick Fury'
+2025-07-11 22:08:59,005 - Row 45: Name standardized from 'Phil Coulson    ' to 'Phil Coulson'
+2025-07-11 22:08:59,005 - Row 48: Name standardized from '    Howard Stark' to 'Howard Stark'
+2025-07-11 22:08:59,006 - Row 49: Name standardized from 'James Rhodes  ' to 'James Rhodes'
+2025-07-11 22:08:59,010 - Row 3: Country 'Inda' corrected to 'India' (score=89)
+2025-07-11 22:08:59,013 - Row 6: Country 'Unted States' corrected to 'United States' (score=96)
+2025-07-11 22:08:59,016 - Row 12: Country 'South Pole' could not be confidently matched (score=45)
+2025-07-11 22:08:59,018 - Row 13: Country 'United Stetes' corrected to 'United States' (score=92)
+2025-07-11 22:08:59,021 - Row 17: Country 'CartoonLand' could not be confidently matched (score=69)
+2025-07-11 22:08:59,022 - Row 19: Country 'Britain' corrected to 'Great Britain' (score=90)
+2025-07-11 22:08:59,024 - Row 23: Country 'Irland' corrected to 'Ireland' (score=92)
+2025-07-11 22:08:59,025 - Row 24: Country 'Mordor' could not be confidently matched (score=31)
+2025-07-11 22:08:59,028 - Row 25: Country 'Middle Earth' could not be confidently matched (score=40)
+2025-07-11 22:08:59,030 - Row 26: Country 'Hobbiton' could not be confidently matched (score=45)
+2025-07-11 22:08:59,032 - Row 27: Country 'Hobbiton' could not be confidently matched (score=45)
+2025-07-11 22:08:59,034 - Row 28: Country 'Shire' could not be confidently matched (score=50)
+2025-07-11 22:08:59,036 - Row 29: Country 'Valinor' could not be confidently matched (score=49)
+2025-07-11 22:08:59,038 - Row 31: Country 'America' could not be confidently matched (score=50)
+2025-07-11 22:08:59,039 - Row 32: Country 'Gotham' could not be confidently matched (score=45)
+2025-07-11 22:08:59,041 - Row 33: Country 'Metropolis' could not be confidently matched (score=42)
+2025-07-11 22:08:59,043 - Row 34: Country 'Themyscira' could not be confidently matched (score=45)
+2025-07-11 22:08:59,045 - Row 35: Country 'Central City' could not be confidently matched (score=54)
+2025-07-11 22:08:59,047 - Row 36: Country 'Atlantis' could not be confidently matched (score=54)
+2025-07-11 22:08:59,048 - Row 37: Country 'Detroit' could not be confidently matched (score=51)
+2025-07-11 22:08:59,049 - Row 44: Country 'Unknown' could not be confidently matched (score=48)
+2025-07-11 22:08:59,051 - Row 45: Country 'Earth' could not be confidently matched (score=57)
+2025-07-11 22:08:59,052 - Row 46: Country 'ShieldHQ' could not be confidently matched (score=53)

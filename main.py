@@ -1,8 +1,11 @@
 from agents.detection_agent import detect_issues
 from agents.correction_agent import correct_data
 from agents.enrichment_agent import enrich_data
+from utils import clear_logs
 
 if __name__ == "__main__":
+    clear_logs()
+    
     print("Running Detection Agent...")
     issues = detect_issues()
     print(f"Detection complete. {len(issues)} issues found. Check logs/detection_log.txt")
