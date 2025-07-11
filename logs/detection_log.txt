@@ -1,0 +1,2 @@
+2025-07-11 21:49:20,947 - Row 1: Missing name, Missing phone
+2025-07-11 21:49:20,948 - Row 3: Missing email, Invalid country

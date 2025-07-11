@@ -1,0 +1,3 @@
+2025-07-11 21:49:20,966 - Row 1: Name inferred as 'Alice' from email 'alice@abc.com'
+2025-07-11 21:49:20,967 - Row 1: Missing phone filled with '0'
+2025-07-11 21:49:20,967 - Row 3: Missing email filled with placeholder 'unknown@example.com'

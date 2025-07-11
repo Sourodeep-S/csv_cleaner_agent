@@ -1,0 +1,5 @@
+name,email,phone,country
+John Doe,john.doe@example.com,9876543210,United States
+,alice@abc.com,,India
+Bob Smith,bob.smith@example.com,1234567890,United Kingdom
+Jane Doe,,9876543210,India
